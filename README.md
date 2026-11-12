@@ -1,14 +1,12 @@
 # vandammest.github.io
-Stijn Vandamme (hij/hem)
-@vandammest
-
-Ambassadeur voor inclusie bij InclusieAmbassade
-
-
-INSTAGRAM - https://www.instagram.com/vandammest
-TIKTOK - https://www.tiktok.com/@vandammest
-FACEBOOK - https://www.facebook.com/stijn.vandamme
-LINKEDIN - https://www.linkedin.com/in/vandammest
-YOUTUBE - https://www.youtube.com/@vandammest
-
-Contact: stijn_vandamme@telenet.be
+Stijn Vandamme (hij/hem)<br>
+@vandammest<br>
+Ambassadeur voor inclusie bij InclusieAmbassade<br>
+<br>
+INSTAGRAM - https://www.instagram.com/vandammest<br>
+TIKTOK - https://www.tiktok.com/@vandammest<br>
+FACEBOOK - https://www.facebook.com/stijn.vandamme<br>
+LINKEDIN - https://www.linkedin.com/in/vandammest<br>
+YOUTUBE - https://www.youtube.com/@vandammest<br>
+<br>
+Contact: stijn_vandamme@telenet.be<br>
